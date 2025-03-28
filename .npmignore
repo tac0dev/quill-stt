@@ -1,0 +1,27 @@
+# Development and build files
+node_modules/
+webpack.config.js
+.gitignore
+.github/
+
+# Demo and examples
+examples/
+
+# Source files (since we're distributing the bundled version)
+src/
+
+# Test files
+test/
+
+# Editor and IDE related files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db

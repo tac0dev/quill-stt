@@ -1,0 +1,22 @@
+# Node.js modules
+node_modules/
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# Editor and IDE related files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# System files
+.DS_Store
+Thumbs.db
